@@ -1,6 +1,8 @@
 # Estudos de Linguagem C / C++
 
-Criada na década de 70
+Criada na década de 70.
+C++ é uma sequencia natural da linguagem C e agrega a técnica da programação orientada a objetos.
+C é utiliza a técnica da programação estruturada. 
 
 # Nota 
 
